@@ -1,0 +1,19 @@
+{
+  "name": "checkcord",
+  "version": "1.0.0",
+  "description": "checkcord is a Discord bot that can jailbreak iOS devices remotely using checkra1n.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IntelligentPickle/checkcord.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IntelligentPickle/checkcord/issues"
+  },
+  "homepage": "https://github.com/IntelligentPickle/checkcord#readme"
+}
