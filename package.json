@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/IntelligentPickle/checkcord/issues"
   },
-  "homepage": "https://github.com/IntelligentPickle/checkcord#readme"
+  "homepage": "https://github.com/IntelligentPickle/checkcord#readme",
+  "dependencies": {
+    "discord.js": "^12.0.2"
+  }
 }
