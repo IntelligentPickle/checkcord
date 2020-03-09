@@ -21,4 +21,4 @@ todo
 ### jelbrek!111!11
 
 Once you have launched the bot, invite the bot to a Discord server using an OAuth url.
-When it is invited, type 'checkra1n' into channel. checkcord will start the jailbreak!
+When it is invited, type 'checkra1n' into any channel. checkcord will start the jailbreak!
